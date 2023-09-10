@@ -2,7 +2,6 @@ Read the description carefully and check for the resources.
 Open the attached file and site opens. 
 It requires the username and password from the user.
 Open inspect and check for the user name and password there itself.
-Gather the user name and password ,log in successfully and you will get the flag 
-
-
-
+Gather the user name:WebWarrior_Enigma and password:B4dm1Nt0n_1S_be5t_g4me,log in successfully 
+d2lyZWR7bTVfRGgwbjFfMVNfYjNzVF9jNFB0MTROfQ== ;encrypt this using online tools
+Therefore the encoded message gathered got using online tools will be the flag for this challenge.
